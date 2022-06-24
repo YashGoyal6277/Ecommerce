@@ -136,7 +136,7 @@ export const Register = () => {
                                         onChange={onChange}
                                     />
                                     <label className='custom-file-label' htmlFor='customFile'>
-                                        Choose Avatar
+                                        Select Avatar
                                     </label>
                                 </div>
                             </div>
